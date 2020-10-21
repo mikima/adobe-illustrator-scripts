@@ -1,2 +1,2 @@
 # adobe-illustrator-scripts
-A collection of Illustrator scripts
+A collection of Illustrator scripts, curated
